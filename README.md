@@ -23,7 +23,7 @@ Healthcare, Finance and HR teams from one integrated analytics ecosystem.
 |---|---|---|
 | [📊 Excel Commercial BI Dashboard](https://github.com/sergenguena1/excel-commercial-bi-dashboard) | 8-tab BI dashboard monitoring €120M scope · 8 brands · 20 sub-brands · 200+ stakeholders | Excel · VBA · Advanced Formulas |
 | [⚙️ VBA ETL Multi-File Compiler](https://github.com/sergenguena1/excel-vba-etl-multifile-compiler) | Processes 70+ distributor files into a single database in under 4 minutes | VBA · Excel Automation |
-| 🔷 Power BI Dashboard *(coming soon)* | Multi-page commercial performance report · 6 pages · DAX · Power Query | Power BI · DAX · Power Query |
+| [🔷Power BI Dashboard](https://github.com/sergenguena1/powerbi-commercial-dashboard) | 8-page interactive report · SKU-level · 6-year history · self-service data export | Power BI · DAX · Power Query |
 
 ---
 
