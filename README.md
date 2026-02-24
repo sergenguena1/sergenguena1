@@ -11,8 +11,8 @@
 ## 🧠 What I do
 
 I turn complex multi-market sales data into decisions. For 6 years at Danone,
-I owned the single source of truth for commercial performance across 
-15+ Sub-Saharan African markets — serving Commercial, Marketing, Supply Chain, 
+I owned the single source of truth for commercial performance across
+15+ Sub-Saharan African markets — serving Commercial, Marketing, Supply Chain,
 Healthcare, Finance and HR teams from one integrated analytics ecosystem.
 
 ---
@@ -23,7 +23,8 @@ Healthcare, Finance and HR teams from one integrated analytics ecosystem.
 |---|---|---|
 | [📊 Excel Commercial BI Dashboard](https://github.com/sergenguena1/excel-commercial-bi-dashboard) | 8-tab BI dashboard monitoring €120M scope · 8 brands · 20 sub-brands · 200+ stakeholders | Excel · VBA · Advanced Formulas |
 | [⚙️ VBA ETL Multi-File Compiler](https://github.com/sergenguena1/excel-vba-etl-multifile-compiler) | Processes 70+ distributor files into a single database in under 4 minutes | VBA · Excel Automation |
-| [🔷Power BI Dashboard](https://github.com/sergenguena1/powerbi-commercial-dashboard) | 8-page interactive report · SKU-level · 6-year history · self-service data export | Power BI · DAX · Power Query |
+| [🔍 SQL FDA Food Incidents Analysis](https://github.com/sergenguena1/sql-fda-food-incidents-analysis) | Exploratory analysis of 231K adverse event reports · GROUP BY · CTE · INNER JOIN · YoY trends | SQL · BigQuery |
+| [🔷 Power BI Dashboard](https://github.com/sergenguena1/powerbi-commercial-dashboard) | 8-page interactive report · SKU-level · 6-year history · self-service data export | Power BI · DAX · Power Query |
 
 ---
 
