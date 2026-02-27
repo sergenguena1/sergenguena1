@@ -52,7 +52,7 @@ Healthcare, Finance and HR teams from one integrated analytics ecosystem.
 |---|---|
 | 📅 Reporting delivery | Reduced from 22nd → 2nd of the month |
 | 📉 Data delays eliminated | From 90% late → 2% |
-| 💰 Trade overspend reduced | From +30% → –5% (–35pp) |
+| 💰 Trade overspend reduced | From +30% → –5% over 3 years (–35pp) |
 | ⚡ ETL processing time | 70+ files in under 4 minutes |
 | 🔧 Manual processing eliminated | –90% through automation |
 | 👥 Stakeholders served | 200+ across 6 departments |
