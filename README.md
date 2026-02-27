@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Serge NGUENA
 
 ### BI & Commercial Performance Analyst
-**Danone Sub-Saharan Africa** · 6+ years · ~€120M revenue scope · 15+ markets · 200+ stakeholders
+**Danone Nutricia** · 6+ years · ~€120M revenue scope · 15+ markets · 200+ stakeholders
 
 📍 Laval, QC · Canadian Permanent Resident · Open to relocation across Canada · Available immediately
 🔗 [LinkedIn](https://linkedin.com/in/serge-nguena) · 📧 serge.nguena1@gmail.com
